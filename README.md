@@ -1,3 +1,4 @@
+Hi. This is the submission for the internship at vyorius. The 3d modelling for the crate and gift and the code has been done by me. The skybox and background were taken from the asset store. I look forward to hearing from you guys and i learned so much while doing this project :) 
 ![vyorius 1](https://github.com/adipadi12/box-game-vyorius/assets/143378132/f0c66cb6-75ac-49da-8d4e-3ec6f690d8ff)
 ![vyorius 2](https://github.com/adipadi12/box-game-vyorius/assets/143378132/843fe8e6-d164-4fc7-be23-4ee9c945c40d)
 ![vyorius 3](https://github.com/adipadi12/box-game-vyorius/assets/143378132/9f83fe37-7be2-48b1-8c09-291a5aecc661)
