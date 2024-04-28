@@ -2,5 +2,6 @@ Hi. This is the submission for the internship at vyorius. The 3d modelling for t
 
 ![vyorius 2](https://github.com/adipadi12/box-game-vyorius/assets/143378132/843fe8e6-d164-4fc7-be23-4ee9c945c40d)
 ![vyorius 3](https://github.com/adipadi12/box-game-vyorius/assets/143378132/9f83fe37-7be2-48b1-8c09-291a5aecc661)
-![vyorius 4](https://github.com/adipadi12/box-game-vyorius/assets/143378132/772d76a9-4a17-4019-bc83-74c68c53804b)
+![vyorius 1](https://github.com/adipadi12/box-game-vyorius/assets/143378132/426dd9d8-c7f5-4dbd-834f-208d810a78d3)
 ![Screenshot 2024-04-28 233958](https://github.com/adipadi12/box-game-vyorius/assets/143378132/f4694022-395e-477b-81d2-75c4e099898b)
+
